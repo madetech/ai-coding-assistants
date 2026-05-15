@@ -12,8 +12,13 @@ What are our principles for using AI coding assistants in our work at Made Tech?
 1) Human in the loop
 2) Quality
 3) Attribution
-4) Risk mitigation
+4) Managing security risks
 5) Consider diverse use cases
 6) Context and tooling
 7) Client alignment
 8) Repeatability
+9) Learning with AI and avoiding skill erosion
+
+## Contributing
+
+Contributions are welcome, just open a pull request (or just commit to `main` if sensible).
