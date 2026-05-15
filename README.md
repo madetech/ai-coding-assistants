@@ -18,6 +18,7 @@ What are our principles for using AI coding assistants in our work at Made Tech?
 7) Client alignment
 8) Repeatability
 9) Learning with AI and avoiding skill erosion
+10) Use in Legacy Codebases
 
 ## Contributing
 
