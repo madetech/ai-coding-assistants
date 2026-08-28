@@ -36,8 +36,10 @@ The information that an LLM currently has the quickest access to. This can inclu
 
 If you model an AI as a 'mind', this is its 'working memory'.
 
-### Model context protocol ("MCP")
-A way to wrap an API to make it easy for an AI tool to use. For example, the github MCP server gives these tools access to reading a repo, or opening a pull request, without having to write a custom `curl` to their API. They still make use of classic authentication and authorization patterns.
+### Model context protocol ("MCP") and Skills
+AI-specific patterns for wrapping tool use (eg a CLI or a web API) in an abstracted component.
+
+The field is developing rapidly, with a possible shift away from MCP due to heavy token use.
 
 ## Contributing to this repo
 
