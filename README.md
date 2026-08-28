@@ -3,15 +3,15 @@ The purpose of this repo is to give guidance on the use of AI for helping techno
 
 This guidance is focused on how best to use these tools. It doesn't explicitly cover whether we "should" use AI at Made Tech or not.
 
-Most of this guidance assumes a little background knowledge. If it's a brand new topic for you, have a look at [our guide to getting started](#getting_started).
+Most of this guidance assumes a little background knowledge. If it's a brand new topic for you, have a look at [our guide to getting started](guidance/getting-started.md).
 
 ### Guidance by topic
-- [How should I use it? What are some typical workflows?](#workflows)
-- [Which tools should I use?](#tooling)
-- [How do I write high-quality code?](#quality)
-- [How do I manage security and risk?](#security)
-- [How do I write a good system prompt?](#prompts)
-- [How do I work in the open with AI?](#attribution)
+- [How should I use it? What are some typical workflows?](guidance/workflows.md)
+- [Which tools should I use?](guidance/tooling.md)
+- [How do I write high-quality code?](guidance/quality.md)
+- [How do I manage security and risk?](guidance/security.md)
+- [How do I write a good system prompt?](guidance/prompts.md)
+- [How do I work in the open with AI?](guidance/attribution.md)
 
 ## Glossary
 ### Artificial Intelligence
