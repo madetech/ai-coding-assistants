@@ -4,7 +4,7 @@
 
 ## Test-driven development
 
-Made Tech's [Alan](https://turing.madetech.com/alan) include a [practice-tdd](https://registry.turing.madetech.com/catalog#practice-tdd) skill that can be used to hone your test driven development chops.
+Made Tech's [Alan](https://turing.madetech.com/alan) includes a [practice-tdd](https://registry.turing.madetech.com/catalog#practice-tdd) skill that can be used to hone your test driven development chops.
 
 ## Feedback loops
 
