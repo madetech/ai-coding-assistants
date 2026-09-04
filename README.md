@@ -1,5 +1,5 @@
 # ai-coding-assistants
-The purpose of this repo is to give guidance on the use of AI for helping technology teams.
+The purpose of this repository is to give guidance on the use of AI for helping technology teams.
 
 This guidance is focused on how best to use these tools. It doesn't explicitly cover whether we "should" use AI at Made Tech or not.
 
