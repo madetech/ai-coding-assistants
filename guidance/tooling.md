@@ -15,7 +15,7 @@ Made Tech's [Alan](https://registry.turing.madetech.com/catalog) includes skills
 
 These include:
 
-- [skill-dev](https://registry.turing.madetech.com/catalog#skill-dev)
-- [skill-hexagonal-architecture](https://registry.turing.madetech.com/catalog#skill-hexagonal-architecture)
-- [practice-tdd](https://registry.turing.madetech.com/catalog#practice-tdd)
+- [skill-dev](https://registry.turing.madetech.com/catalog/components/skill-dev)
+- [skill-hexagonal-architecture](https://registry.turing.madetech.com/catalog/components/skill-hexagonal-architecture)
+- [practice-tdd](https://registry.turing.madetech.com/catalog/components/practice-tdd)
 
