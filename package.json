@@ -1,0 +1,20 @@
+{
+  "name": "ai-coding-assistants",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Guidance on the use of AI for helping technology teams at Made Tech.",
+  "scripts": {
+    "lint": "markdownlint-cli2",
+    "lint:fix": "markdownlint-cli2 --fix",
+    "check:links": "node scripts/check-links.js",
+    "test": "npm run lint && npm run check:links"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madetech/ai-coding-assistants.git"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.13.6",
+    "markdownlint-cli2": "^0.23.3"
+  }
+}
