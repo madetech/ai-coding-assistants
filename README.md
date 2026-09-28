@@ -1,9 +1,6 @@
-# ai-coding-assistants
+#
 
 ![AI Coding Assistants — Made Tech](images/header.svg)
-
-> ⚠️ **Brand review pending:** header colours (`#E84141`, `#12122A`) are approximate —
-> confirm against the official Made Tech brand kit before publishing.
 
 The purpose of this repository is to give guidance on the use of AI for helping technology teams.
 
