@@ -8,7 +8,7 @@ To maintain high documentation quality and avoid broken links or formatting regr
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v20+ LTS recommended)
+- [Node.js](https://nodejs.org/) (v24+ LTS recommended)
 
 ### Quick Start
 
