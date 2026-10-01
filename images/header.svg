@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Made Tech — AI Coding Assistants">
+  <defs>
+    <!-- Colours per Made Tech brand guidelines (last updated Feb 2025), p.18-21 -->
+    <!-- Background: Made Tech extra dark grey #333333 (guidelines prefer dark grey over black) -->
+    <!-- Primary: Made Tech light green #00AC32  |  Logo greens: #BADD8D / #53CD54 -->
+    <!-- No gradients on brand colours, per p.18-20 -->
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&amp;family=Montserrat:wght@400;700&amp;display=swap');
+    </style>
+
+    <!-- Subtle grid texture -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <!-- Background: flat Made Tech extra dark grey -->
+  <rect width="1200" height="200" fill="#333333"/>
+
+  <!-- Subtle grid overlay -->
+  <rect width="1200" height="200" fill="url(#grid)"/>
+
+  <!-- Left accent bar: flat Made Tech light green, no gradient -->
+  <rect x="0" y="0" width="6" height="200" fill="#00AC32"/>
+
+  <!-- Decorative: mono mountain motif (top-right), secondary/sparing use per p.24 -->
+  <g opacity="0.9">
+    <polygon points="1030,150 1075,80 1120,150" fill="#ffffff" opacity="0.05"/>
+    <polygon points="1090,150 1135,95 1180,150" fill="#ffffff" opacity="0.08"/>
+    <polygon points="1120,150 1155,105 1190,150" fill="#A4A4A4" opacity="0.12"/>
+  </g>
+
+  <!-- Made Tech logo lockup: mountain icon to the left of wordmark, per p.8 -->
+  <g>
+    <!-- back peak: Made Tech logo light green -->
+    <polygon points="56,26 42,50 70,50" fill="#BADD8D"/>
+    <!-- front peak: Made Tech logo bright green -->
+    <polygon points="68,32 54,50 82,50" fill="#53CD54"/>
+    <!-- wordmark, reversed (white) per p.9 -->
+    <text
+      x="92" y="47"
+      font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif"
+      font-size="22"
+      font-weight="800"
+      fill="#ffffff"
+      text-anchor="start"
+    >MadeTech</text>
+  </g>
+
+  <!-- Main title -->
+  <text
+    x="42" y="118"
+    font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif"
+    font-size="50"
+    font-weight="800"
+    fill="#ffffff"
+    text-anchor="start"
+    letter-spacing="-0.5"
+  >AI Coding Assistants</text>
+
+  <!-- Underline accent: flat Made Tech light green, no gradient -->
+  <rect x="42" y="132" width="200" height="3" fill="#00AC32" rx="1.5"/>
+
+  <!-- Subtitle / strapline -->
+  <text
+    x="42" y="162"
+    font-family="'Montserrat', 'Helvetica Neue', Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    fill="#ffffff"
+    opacity="0.6"
+    text-anchor="start"
+    letter-spacing="0.3"
+  >Guidance on using AI tools for technology teams at Made Tech</text>
+</svg>
